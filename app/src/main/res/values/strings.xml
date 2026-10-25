@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">GithubProfile</string>
+    <string name="github_username">GitHub Username</string>
+    <string name="search">Search</string>
+    <string name="followers">Followers</string>
+    <string name="following">Following</string>
+    <string name="repos">Repos</string>
+    <string name="please_enter_username">Please enter a username</string>
+    <string name="user_not_found">User not found: %1$s</string>
+    <string name="error">Error: %1$s</string>
+    <string name="no_name">No Name</string>
+    <string name="no_bio">No Bio</string>
+    <string name="username_format">@%1$s</string>
+</resources>
